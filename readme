@@ -1,0 +1,25 @@
+Python Raycast Engine
+Tyler Dolph 2020, youtube.com/memespaghetti, github.com/radicalspaghetti
+made following this video >>> https://youtu.be/gYRrGTC7GtA <<<
+
+todo list:
+collisions
+textures
+HP?+Ammo? enemies?????????
+maybe just make wolfenstein 3D
+better controls 
+billbroard
+
+finished thingalings:
+2D map
+
+problem list:
+grid size is locked to 64 (honestly whatever)
+should prolly put all of the raycast code in a func and call that twice instead of just having the code twice :/
+player speed and wall height is locked to map size, so if the map is bigger it's also smaller?? a
+
+(fixed) problem list:
+visual glitches at certain distances when both shadows and distance fading are turned on
+distance fading only works with shades of gray
+one of the walls is showing up as not that??????
+it just doesn't work. why? has I ever?
